@@ -1,18 +1,18 @@
 # dariatop10crm
-# H1
-## H
-### H3
-**bold text**
+# Афонасенко
+## Дарья
+### Учусь
+**Создавать сайты**
 
-*italicized text*
-> blockquote
-1. First item
-2. Second item
-3. Third item
-- First item
-- Second item
-- Third item
-	`code`
-  	---
+*В этом *
+> мне помогает
+1. преподаватель
+2. программист
+3. хороший человек
+- Филон
+- Олег
+- Петровия
+	`!!!`
+  	---вродебы все получается
     [title](https://www.example.com)
     ![alt text](image.jpg)
